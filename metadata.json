@@ -1,0 +1,5 @@
+{
+  "name": "PBR Ray Tracing Sim",
+  "description": "A real-time ray tracing simulation using Three.js and Physically Based Rendering (PBR) with Image-Based Lighting (HDRI).",
+  "requestFramePermissions": []
+}
